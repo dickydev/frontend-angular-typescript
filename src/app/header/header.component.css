@@ -1,0 +1,20 @@
+/* header.component.css */
+.navbar {
+    padding: 1rem 2rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #337ab7;
+}
+
+.nav-link:hover {
+    color: #23527c;
+}
+
+.nav-link.active {
+    color: #23527c;
+}
